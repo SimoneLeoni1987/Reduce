@@ -2,6 +2,7 @@
 
 Sample trick to merge different arrays
 
+```
 const arr1 = [
   ["name", "id", "age", "weight", "Cool"],
   ["Susan", "3", "20", "120", true],
@@ -23,7 +24,7 @@ const arr3 = [
   ["Bob", "2", "yes"],
   ["John", "1", "yes"]
 ];
-
+```
 
 Desired data would be a merged array, database-like.
 
